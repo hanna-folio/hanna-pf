@@ -1,16 +1,16 @@
-const logotext = "Hanna";
+const logotext = "Hanna Trinh";
 const meta = {
     title: "Hanna Trinh",
-    description: "I’m John Doe data scientist _ Copywriter, specializing in editorial, etc.",
+    description: "I'm Hanna _ Copywriter, specializing in editorial, etc.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Hanna",
     animated: {
         first: "I love branding",
         second: "I love storytelling",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Pending",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -19,11 +19,6 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
         jobtitle: "Staford University",
         where: "Stanford, CA",
         date: "April 2024 - Current",
@@ -135,8 +130,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "hktHanna@gmail.com",
+    YOUR_FONE: "(408) 334-9369",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -146,10 +141,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    linkedin: "https://www.linkedin.com/in/hannaktrinh/",
 };
 export {
     meta,
